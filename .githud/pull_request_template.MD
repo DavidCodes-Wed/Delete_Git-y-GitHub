@@ -20,4 +20,4 @@ Si los cammbios afectan a la interfaz de usuario, por favor adjunta capturas de 
 - [ ] He documentado adecuadamente los cambios en el código.
 
 ### Otros comentarios
-Agrega cualquier otra información relevante aquí.
+Agrega cualquier otra información relevante aquí.🔥👌
